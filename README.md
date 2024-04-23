@@ -1,7 +1,9 @@
 # Free Interior for house near Emerald Ranch
 
-Simple free interior for shack/house near Emerald Ranch
-not fancy not class just free
+Simple free interior for shack/house near Emerald Ranch.
+
+Not fancy... not classy... just free...
+
 just drop the file shack_b_c_int.ytyp in any streaming resource
 
 ![shack1](https://github.com/zetafe1/shack_b_c_int/assets/79672264/62443cbe-cca4-42d2-85c0-78029bac7bff)
