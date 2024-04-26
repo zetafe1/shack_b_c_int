@@ -6,6 +6,8 @@ Not fancy... not classy... just free...
 
 just drop the file shack_b_c_int.ytyp in any streaming resource + some custom rugs
 
+not ymap or xml, props on .ytyp
+
 ![shack1](https://github.com/zetafe1/shack_b_c_int/assets/79672264/62443cbe-cca4-42d2-85c0-78029bac7bff)
 ![shack3](https://github.com/zetafe1/shack_b_c_int/assets/79672264/b17118cd-a07c-47df-9cc4-fdc975bc740f)
 ![shack6](https://github.com/zetafe1/shack_b_c_int/assets/79672264/5f080dce-91e5-4a9d-bba8-d441f38622c3)
